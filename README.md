@@ -9,7 +9,7 @@
 |**Temperatura początkowa ($T$)**|300 K, 500 K, 700 K|
 |**Ciśnienie ($P$)**|101325 Pa (stałe atmosferyczne)|
 
-*Uwaga: W mechanizmie Cantera zawilgocenie wprowadzono poprzez odpowiednią modyfikację strumienia paliwa o wodę w stanie gazowym ($H\_2\O$), pełniącą rolę balastu termicznego.*
+*Uwaga: W mechanizmie Cantera zawilgocenie wprowadzono poprzez odpowiednią modyfikację strumienia paliwa o wodę w stanie gazowym ($H2O$), pełniącą rolę balastu termicznego.*
 
 \---
 
