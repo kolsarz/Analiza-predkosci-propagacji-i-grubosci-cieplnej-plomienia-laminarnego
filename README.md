@@ -1,4 +1,4 @@
-# Analiza prędkości propagacji i grubości cieplnej płomienia
+# Analiza prędkości propagacji i grubości cieplnej płomienia lamimnarnego
 Parametry początkowe zadane w symulacji: 
 	-zawartość powietrza w paliwie w zakresie {0; 0,05; 0,10; 0,15; 0,20}
 	-zawartość wilgoci w paliwie w zakresie {0,6; 0,8; 1,0; 1,2; 1,4}
