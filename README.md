@@ -32,4 +32,4 @@ Dzięki zastosowaniu biblioteki `mpi4py` projekt wykorzystuje architekturę obli
 Aby uruchomić symulację z podziałem na określoną liczbę rdzeni (np. 4), należy wywołać skrypt w terminalu za pomocą komendy:
 
 ```bash
-mpirun -n 4 python cantera\_tut\_simple\_mpi2.py
+mpirun -n 4 python cantera_tut_simple_mpi2.py
