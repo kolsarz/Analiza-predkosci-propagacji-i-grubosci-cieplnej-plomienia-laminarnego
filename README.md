@@ -27,7 +27,7 @@
 
 ## Uruchamianie projektu
 
-Dzięki zastosowaniu biblioteki `mpi4py` projekt wykorzystuje architekturę obliczeń równoległych (model problemu trywialnie równoległego).
+Dzięki zastosowaniu biblioteki `mpi4py` projekt wykorzystuje architekturę obliczeń równoległych.
 
 Aby uruchomić symulację z podziałem na określoną liczbę rdzeni (np. 4), należy wywołać skrypt w terminalu za pomocą komendy:
 
