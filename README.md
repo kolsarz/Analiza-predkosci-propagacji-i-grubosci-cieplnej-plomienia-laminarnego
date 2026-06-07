@@ -11,7 +11,7 @@
 
 *Uwaga: W mechanizmie Cantera zawilgocenie wprowadzono poprzez odpowiednią modyfikację strumienia paliwa o wodę w stanie gazowym, pełniącą rolę balastu termicznego.*
 
-\---
+\
 
 ## Wykorzystane technologie i mechanizmy
 
@@ -23,7 +23,7 @@
 * **Zrównoleglenie obliczeń (HPC):** Open MPI (biblioteka `mpi4py`)
 * **Analiza i wizualizacja danych:** `numpy`, `matplotlib`, `csv`
 
-\---
+\
 
 ## Uruchamianie projektu
 
